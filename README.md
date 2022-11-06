@@ -11,7 +11,9 @@
 ## About <a name = "about"></a>
 
 This is a simple producer application that streams measurements from a DHT11 sensor in a Raspberry Pi device to an Apache Kafka REST Proxy.
+
 https://user-images.githubusercontent.com/9287209/200188360-1a7e4e0f-3a5d-4e68-af99-471aa2f32ab9.mp4
+
 ## Getting Started <a name = "getting_started"></a>
 To run this experiment you will need:
 
