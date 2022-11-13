@@ -1,0 +1,36 @@
+{
+    "type": "record",
+    "namespace": "com.leandro.dht11",
+    "name": "dht11Record",
+    "doc": "DHT11 Record schema.",
+    "fields": [
+        {
+            "name": "sensor_id",
+            "type": "string",
+            "doc": "Sensor identifier."
+        },
+        {
+            "name": "umidity",
+            "type": "double",
+            "doc": "Umidity measurement."
+        },
+        {
+            "name": "temperature",
+            "type": "double",
+            "doc": "Umidity measurement."
+        },
+        {
+            "name": "time_8601",
+            "type": "string",
+            "doc": "Datetime of measurement in human-friendly readable format."
+        },
+        {
+            "name": "timestamp",
+            "type": {
+                "type": "int",
+                "logicalType": "date"
+            },
+            "doc": "Timestamp of measurement."
+        }
+    ]
+}
