@@ -256,7 +256,8 @@ You can send the measurements to Elasticsearch and develop a dashboard on Kibana
 ## Dashboard on Kibana <a name = "kibana"></a>
 
 
-https://user-images.githubusercontent.com/9287209/201718842-9db7815b-0a02-4c72-a3b1-1f2258627cb3.mp4
+https://user-images.githubusercontent.com/9287209/201723994-0fc1987d-191b-4ed7-994f-99bbbe678fdb.mp4
+
 
 
 
